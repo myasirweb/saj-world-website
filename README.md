@@ -37,5 +37,3 @@ SAJ World (SAJ Consultants) provides **free educational counselling** and expert
 
 ---
 
-## 📂 Repository Structure (Suggested Layout)
-
